@@ -1,0 +1,35 @@
+function total: 
+	start: 2126
+	function end: 4123
+	total line number = 1998
+
+lable:
+	LPIC:128~255 = 128
+
+data section: 
+	3530~3630 = 101
+
+instruction line:
+	1998 - 101 - 128 = 1769
+
+instruction:
+	push: 1
+	pop: 1
+	sub: 34
+	subs: 66
+	b: 1
+	bx: 1
+	nop: 1
+	dummy:1 
+	mov: 133
+	add: 193
+	adds: 119
+	str: 37
+	strb: 8
+	ldr: 313
+	ldrb: 272
+	uxtb: 264
+	sxtb: 192
+	eors: 132
+
+	total: 1769
